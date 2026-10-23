@@ -149,27 +149,6 @@ _iub.csConfiguration = {"siteId":4503131,"cookiePolicyId":88104840,"lang":"en","
 <script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js"></script>
 <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
 
-<script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
-
-<script>
-  window.renderOptIn = function() {
-    window.gapi.load('surveyoptin', function() {
-      window.gapi.surveyoptin.render(
-        {
-          // REQUIRED FIELDS
-          "merchant_id": 5779961844,
-          "order_id": "ORDER_ID",
-          "email": "CUSTOMER_EMAIL",
-          "delivery_country": "COUNTRY_CODE",
-          "estimated_delivery_date": "YYYY-MM-DD",
-
-          // OPTIONAL FIELDS
-          "products": [{"gtin":"GTIN1"}, {"gtin":"GTIN2"}]
-        });
-    });
-  }
-</script>   
-
 <script id='merchantWidgetScript' src="https://www.gstatic.com/shopping/merchant/merchantwidget.js" defer></script>
 
 <script>
@@ -178,9 +157,8 @@ _iub.csConfiguration = {"siteId":4503131,"cookiePolicyId":88104840,"lang":"en","
          // REQUIRED FIELDS
          merchant_id: 5779961844,
 
-         // OPTIONAL FIELDS
-         position: POSITION,
-         region: REGION,
+         // OPTIONAL FIELDS (bottom-left is taken by the Google Customer Reviews badge)
+         position: 'RIGHT_BOTTOM'
     });
   });
 </script>
