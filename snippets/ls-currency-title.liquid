@@ -1,0 +1,34 @@
+{%- comment -%}
+    Display current/selected currency title
+{%- endcomment -%}
+   {% comment %}
+
+{%- assign defaultCurrency = shop.metafields.ls-settings.defaultCurrency -%}
+{%- capture currencyCode -%}{%- render "ls-currency" -%}{%- endcapture -%}
+
+{%- if code != blank -%}
+    {%- assign currencyCode = code -%}
+{%- endif -%}
+
+{%- assign currencyObject = '' -%}
+{%- if currencyCode == defaultCurrency.code -%}
+    {%- assign currencyObject = defaultCurrency -%}
+{%- else -%}
+
+    {%- for targetCurrency in shop.metafields.ls-settings.targetCurrencies -%}
+
+        {%- if targetCurrency.code != currencyCode -%}
+            {%- continue -%}
+        {%- endif -%}
+
+        {%- assign currencyObject = targetCurrency -%}
+        {%- break -%}
+
+    {%- endfor -%}
+
+{%- endif -%}
+
+{%- if currencyObject -%}
+    {{ currencyObject.title }}
+{%- endif -%}
+   {% endcomment %}

@@ -1,0 +1,1066 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "general": {
+    "meta": {
+      "tags": "Tagged \"{{ tags }}\"",
+      "page": "Side {{ page }}"
+    },
+    "accessibility": {
+      "close": "Slute"
+    },
+    "password": {
+      "enter_password": "Fier mei wachtwurd yn",
+      "password_input": "Wachtwurd",
+      "password_submit": "Yngean",
+      "newsletter_input": "Jo e-postadres",
+      "newsletter_submit": "Bring my op 'e hichte",
+      "newsletter_success": "Betanke foar oanmelding!",
+      "powered_by_html": "Dizze winkel sil wurde oandreaun troch {{shopify_link}}",
+      "login_title": "Binne jo de eigner fan 'e winkel?",
+      "login_link": "Oanmelde hjir",
+      "follow_us": "Folgje ús"
+    },
+    "pagination": {
+      "previous_page": "Foarige",
+      "next_page": "Folgjende",
+      "go_to_page": "Navigearje nei pagina {{page}}",
+      "page_count": "Side {{current_page}} / {{pages}}"
+    },
+    "breadcrumb": {
+      "title": "Breadcrumb",
+      "home": "Thús",
+      "account": "Myn account"
+    },
+    "social": {
+      "follow_label": "Folgje ús op {{social_media}}",
+      "facebook_share": "Diele op Facebook",
+      "pinterest_pin": "Pin op Pinterest",
+      "twitter_tweet": "Tweet op Twitter",
+      "email_share": "Diele fia e-post"
+    },
+    "popup": {
+      "success": "Jo binne registrearre op ús nijsbrief!",
+      "email_placeholder": "Dyn email",
+      "subscribe": "Ynskriuwe"
+    }
+  },
+  "header": {
+    "general": {
+      "currency": "Muntsoarte",
+      "language": "Taal",
+      "account": "Myn account",
+      "login": "Oanmelde / Oanmelde",
+      "welcome": "Hoi {{first_name}}",
+      "cart": "Karre"
+    },
+    "navigation": {
+      "menu": "Menu",
+      "open_menu": "Iepenje menu",
+      "back": "Efterkant",
+      "need_help": "Help nedich hawwe?",
+      "follow_us": "Folgje ús"
+    },
+    "search": {
+      "open_search": "Iepen sykjen",
+      "close_search": "Slute",
+      "input_placeholder": "Sykje...",
+      "all_categories": "Alle kategoryen",
+      "no_results": "Gjin resultaten oerienkomme",
+      "submit": "Sykje",
+      "view_products": "Besjoch alle produkten",
+      "view_results": "Besjoch alle resultaten",
+      "products": "Produkten",
+      "blog_posts": "Blogposten",
+      "pages": "Siden",
+      "blog_posts_and_pages": "Siden en blogberjochten"
+    }
+  },
+  "footer": {
+    "general": {
+      "currency": "Muntsoarte",
+      "language": "Taal",
+      "follow_us": "Folgje ús",
+      "we_accept": "Wy akseptearje"
+    },
+    "newsletter": {
+      "success": "Jo binne registrearre op ús nijsbrief!",
+      "input": "Dyn email",
+      "submit": "Ynskriuwe"
+    }
+  },
+  "search": {
+    "general": {
+      "title": "Sykje",
+      "title_with_terms": "Sykresultaten foar \"{{terms}}\"",
+      "products_with_terms": "Produkten foar \"{{terms}}\"",
+      "articles_with_terms": "Blogposten foar \"{{terms}}\"",
+      "pages_with_terms": "Siden foar \"{{terms}}\"",
+      "pages_and_articles_with_terms": "Siden en blogberjochten foar \"{{terms}}\"",
+      "content": "Brûk de sykbalke hjirûnder om produkten te finen:",
+      "input_placeholder": "Sykje...",
+      "no_results_with_terms": "Der waarden gjin resultaten fûn foar \"{{terms}}\"",
+      "go_back_home": "of klikje hjir om werom te gean nei hûs",
+      "results_count": {
+        "zero": "0 resultaat",
+        "one": "1 resultaat",
+        "other": "{{count}} resultaten"
+      },
+      "showing_count": {
+        "zero": "Gjin resultaten",
+        "one": "Toant {{offset}} - {{page_size}} fan {{count}} resultaat",
+        "other": "Toant {{offset}} - {{page_size}} fan {{count}} resultaten"
+      }
+    }
+  },
+  "404": {
+    "general": {
+      "title": "Side net fûn",
+      "content": "De pagina wêr't jo nei sykje is net te finen.",
+      "search": "Sykje yn winkel ...",
+      "continue_shopping": "Klik hjir om troch te gean mei winkelen"
+    }
+  },
+  "home_page": {
+    "onboarding": {
+      "vendor_title": "Namme fan it merk",
+      "product_title": "Produkt namme",
+      "product_sku": "SKU-1234",
+      "product_description": "In produktbeskriuwing kin brûkt wurde om de funksjes en foardielen fan jo produkt sjen te litten. Jo kinne it e-commerceblog fan Shopify kontrolearje op ynspiraasje en advys foar jo produkten goed markearje.",
+      "collection_title": "Namme fan samling",
+      "article_title": "Post syn namme",
+      "article_author": "Skreaun troch jo",
+      "article_category": "Kategory",
+      "article_excerpt": "Jo winkel hat noch gjin blogberjochten publisearre. In blog kin brûkt wurde om te petearjen oer lansearringen fan nije produkten, tips, of oar nijs dat jo mei jo klanten wolle diele. Jo kinne it e-handelsblogg fan Shopify kontrolearje op ynspiraasje en advys foar jo eigen winkel en blog.",
+      "instagram_likes": "28 likes",
+      "instagram_caption": "Dit is in foarbyldfoarbyld."
+    },
+    "newsletter": {
+      "success": "Jo binne registrearre op ús nijsbrief!",
+      "input": "Dyn email",
+      "submit": "Ynskriuwe"
+    }
+  },
+  "collection": {
+    "general": {
+      "all_collections": "Alle kolleksjes",
+      "all_products": "Alle produkten",
+      "view_more": "Sjoch mear",
+      "view_less": "Besjoch minder",
+      "brands": "Merken",
+      "empty": "Dizze samling is leech",
+      "empty_button": "Gean nei Hjemmeside",
+      "no_results": "Jo kritearia kamen net oerien mei produkten.",
+      "view_products": "Besjoch produkten",
+      "display": "Skerm",
+      "products_count": {
+        "zero": "{{count}} produkten",
+        "one": "{{count}} produkt",
+        "other": "{{count}} produkten"
+      },
+      "results_count": {
+        "zero": "{{count}} resultaten",
+        "one": "{{count}} resultaat",
+        "other": "{{count}} resultaten"
+      },
+      "showing_count": {
+        "zero": "Gjin produkten",
+        "one": "Toant {{offset}} - {{page_size}} fan {{count}} produkt",
+        "other": "Toant {{offset}} - {{page_size}} fan {{count}} produkten"
+      },
+      "page_size": "{{page_size}} per pagina"
+    },
+    "filter": {
+      "title": "Filter",
+      "show_filter": "Filters sjen litte",
+      "select_category": "Selektearje in kategory",
+      "all": "Filters",
+      "clear_all": "Alles wiskje",
+      "clear": "Opklearje",
+      "view_results": "Sjoch resultaten"
+    },
+    "sorting": {
+      "title": "Sortearje op"
+    },
+    "layout": {
+      "title": "Fisy",
+      "grid": "Produkten werjaan as roaster",
+      "list": "Produkten werjaan as list"
+    },
+    "product": {
+      "from_price_html": "Fan {{price_min}}",
+      "add_to_cart": "Tafoegje oan winkelwein",
+      "pre_order": "Foarbestelling",
+      "quick_view": "Efkes snel sjen",
+      "choose_options": "Kies opsjes",
+      "sold_out": "Útferkocht",
+      "in_stock": "Op foarrie",
+      "discount_html": "Rêde {{savings}}",
+      "low_stock_with_quantity_count": {
+        "one": "Allinnich {{count}} ienheid lofts",
+        "other": "Allinnich {{count}} units oerbleaun"
+      },
+      "in_stock_with_quantity_count": {
+        "one": "Op foarrie, {{count}} ienheid",
+        "other": "Op foarrie, {{count}} ienheden"
+      }
+    }
+  },
+  "customer": {
+    "general": {
+      "my_account": "Myn account",
+      "orders": "Myn Bestellings",
+      "addresses": "Myn adressen",
+      "logout": "Útlogge",
+      "no_orders": "Noch gjin bestellingen",
+      "no_orders_button": "Meitsje jo earste bestelling"
+    },
+    "login": {
+      "login": "Oanmelde by myn akkount",
+      "description": "Fier jo e-post en wachtwurd yn:",
+      "email": "E-post",
+      "password": "Wachtwurd",
+      "submit": "Oanmelde",
+      "new_customer": "Nije klant?",
+      "create_your_account": "Meitsje jo akkount",
+      "lost_password": "Wachtwurd kwytrekke?",
+      "recover_password": "Wachtwurd weromhelje"
+    },
+    "order": {
+      "order": "Oarder",
+      "order_number": "Oarder {{order_number}}",
+      "back_to_orders": "Werom nei oarders",
+      "date": "Datum",
+      "payment_status": "Betellingstatus",
+      "fulfillment_status": "Ferfollingstatus",
+      "back_to_account": "Werom nei akkount",
+      "cancelled_at": "Bestelling annulearre op {{date}}. Reden: {{reason}}.",
+      "fulfillment_with_url_and_number_html": "Alle produkten binne ferstjoerd. Track de ferstjoering mei nûmer {{tracking_number}} as troch <a href=\"{{tracking_url}}\" target=\"_blank\">hjir klikke</a>.",
+      "fulfillment_with_url_html": "Alle produkten binne ferstjoerd. Track de ferstjoering troch <a href=\"{{tracking_url}}\" target=\"_blank\">hjir klikke</a>.",
+      "fulfillment_with_number_html": "Alle produkten binne ferstjoerd. Track de ferstjoering mei nûmer {{tracking_number}}.",
+      "fulfillment_html": "Alle produkten binne ferstjoerd.",
+      "line_fulfillment_with_url_and_number_html": "Dit produkt is ferstjoerd. Track de ferstjoering mei nûmer {{tracking_number}} as troch <a href=\"{{tracking_url}}\" target=\"_blank\">hjir klikke</a>.",
+      "line_fulfillment_with_url_html": "Dit produkt is ferstjoerd. Track de ferstjoering troch <a href=\"{{tracking_url}}\" target=\"_blank\">hjir klikke</a>.",
+      "line_fulfillment_with_number_html": "Dit produkt is ferstjoerd. Track de ferstjoering mei nûmer {{tracking_number}}.",
+      "line_fulfillment_html": "Dit produkt is ferstjoerd.",
+      "product": "Produkt",
+      "quantity": "Kwantiteit",
+      "total": "Totaal",
+      "subtotal": "Subtotaal",
+      "discount": "Koarting",
+      "shipping": "Skipfeart",
+      "tax_included": "Belesting ynbegrepen",
+      "tax_excluded": "Belesting útsletten",
+      "shipping_address": "Ferstjoeradres",
+      "billing_address": "Fakturaasjeadres",
+      "no_billing_address": "Gjin faktureadres wie nedich foar dizze bestelling.",
+      "no_shipping_address": "Gjin ferstjoeringsadres wie nedich foar dizze bestelling."
+    },
+    "activate_account": {
+      "activate_account": "Account aktivearje",
+      "description": "Fier in wachtwurd yn om jo akkount te meitsjen:",
+      "password": "Wachtwurd",
+      "password_confirmation": "Befêstigje Wachtwurd",
+      "submit": "Aktivearje",
+      "decline": "Ferklearje"
+    },
+    "recover_password": {
+      "recover_password": "Wachtwurd weromhelje",
+      "description": "Fier jo e-postadres yn:",
+      "email": "E-post",
+      "submit": "Genêze",
+      "success": "Wy hawwe jo in e-post stjoerd mei ynstruksjes om jo wachtwurd werom te setten.",
+      "remembered_your_password": "Jo wachtwurd ûnthâlden?",
+      "back_to_login": "Werom nei oanmelding"
+    },
+    "reset_password": {
+      "reset_password": "Wachtwurd feroarje",
+      "description": "Fier in nij wachtwurd yn:",
+      "password": "Wachtwurd",
+      "password_confirmation": "Befêstigje Wachtwurd",
+      "submit": "Wachtwurd feroarje"
+    },
+    "addresses": {
+      "no_addresses": "Noch gjin adressen",
+      "no_addresses_button": "Foegje jo earste adres ta",
+      "default_address": "Standert adres",
+      "address_number": "Adres {{number}}",
+      "edit": "Bewurkje",
+      "delete": "Ferwiderje",
+      "add_address": "Foegje in nij adres ta",
+      "edit_address": "Adres bewurkje",
+      "form_subtitle": "Folje hjirûnder de ynformaasje yn:",
+      "first_name": "Foarnamme",
+      "last_name": "Achternamme",
+      "company": "Bedriuw",
+      "address1": "Adres 1",
+      "address2": "Adres 2",
+      "city": "Stêd",
+      "country": "Lân",
+      "province": "Provinsje",
+      "zip": "ZIP koade",
+      "phone": "Telefoan",
+      "set_default": "Stel as standertadres yn"
+    },
+    "register": {
+      "create_account": "Meitsje myn akkount",
+      "description": "Folje hjirûnder de ynformaasje yn:",
+      "first_name": "Foarnamme",
+      "last_name": "Achternamme",
+      "email": "E-post",
+      "password": "Wachtwurd",
+      "submit": "Meitsje myn akkount",
+      "already_have_account": "Hawwe jo al in account?",
+      "login": "Oanmelde hjir"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Myn karre",
+      "empty": "Jo winkelkarre is leech",
+      "empty_button": "Winkelje ús produkten",
+      "search": "Sykje...",
+      "view_cart": "Besjoch cart",
+      "note_title": "Ynstruksjes bestelle",
+      "edit_note": "Bewurkje",
+      "save_note": "Rêde",
+      "secure_payments": "100% feilige betellingen",
+      "free_shipping": "Jo binne yn oanmerking foar fergees ferstjoeren!",
+      "free_shipping_remaining_html": "Spendearje {{remaining_amount}} mear en krije fergees ferstjoering!",
+      "amount_saved_html": "Jo hawwe opslein {{amount_saved}}!",
+      "free": "Frij!",
+      "taxes_and_shipping_at_checkout": "Belestingen en ferstjoeren berekkene by de kassa",
+      "taxes_and_shipping_policy_at_checkout_html": "Belestingen en <a href=\"{{ link }}\">ferstjoeren</a> berekkene by kassa",
+      "taxes_included_but_shipping_at_checkout": "Belesting ynbegrepen. Skipfeart berekkene by kassa",
+      "taxes_included_and_shipping_policy_html": "Belesting ynbegrepen. <a href=\"{{ link }}\">Skipfeart</a> berekkene by kassa",
+      "total": "Totaal",
+      "checkout": "Betelje"
+    },
+    "items": {
+      "decrease_quantity": "Ferminderje kwantiteit mei 1",
+      "increase_quantity": "Ferheegje kwantiteit mei 1",
+      "no_more_stock": "Net mear foarrie",
+      "remove": "Weinimme"
+    },
+    "gift_wrap": {
+      "price_html": "Allinnich {{price}}"
+    },
+    "shipping_estimator": {
+      "title": "Skatting ferstjoere",
+      "country": "Lân",
+      "province": "Provinsje",
+      "zip_code": "ZIP koade",
+      "estimate": "Skatte",
+      "no_results_title": "Gjin ferstjoering koe wurde fûn foar jo adres.",
+      "one_result_title": "D'r is ien ferstjoerkoers foar jo adres:",
+      "multiple_results_title": "Der binne {{count}} ferstjoerkosten foar jo adres:",
+      "errors": "D'r binne wat flaters:"
+    }
+  },
+  "product": {
+    "general": {
+      "previous_product": "Prev",
+      "next_product": "Folgjende",
+      "description": "Beskriuwing",
+      "sku": "SKU:",
+      "share": "Diel dit produkt",
+      "zoom": "Rôlje ôfbylding om yn te zoomen",
+      "view_in_space": "Besjoch yn jo romte",
+      "view_more": "Sjoch mear",
+      "view_less": "Besjoch minder",
+      "payment": "Betelmetoaden",
+      "security": "Feiligens",
+      "payment_notice": "Jo betellingsynformaasje wurde feilich ferwurke. Wy bewarje kredytkaartgegevens net en hawwe ek gjin tagong ta jo kredytkaartynformaasje.",
+      "estimate_shipping": "Skatting ferstjoere",
+      "refund_policy": "Weropjefte belied",
+      "include_taxes": "Belesting ynbegrepen",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link link--accented\">Ferstjoeren berekkene</a> by kassa"
+    },
+    "labels": {
+      "sold_out": "Útferkocht"
+    },
+    "form": {
+      "variant": "Fariant",
+      "price": "Priis",
+      "inventory": "Aandiel",
+      "quantity": "Kwantiteit",
+      "in_stock": "Op foarrie",
+      "low_stock_with_quantity_count": {
+        "one": "Allinnich {{count}} ienheid lofts",
+        "other": "Allinnich {{count}} units oerbleaun"
+      },
+      "in_stock_with_quantity_count": {
+        "one": "Op foarrie ({{count}} unit), klear om te ferstjoeren",
+        "other": "Op foarrie ({{count}} units), klear om te ferstjoeren"
+      },
+      "add_to_cart": "Tafoegje oan winkelwein",
+      "sold_out": "Útferkocht",
+      "pre_order": "Foarbestelling",
+      "unavailable": "Net beskikber",
+      "contact_us": "Kontakt mei ús opnimme"
+    }
+  },
+  "gift_card": {
+    "issued": {
+      "subtext": "Hjir is jo kado!",
+      "disabled": "Jo jeftekaart is útskeakele.",
+      "expired": "Jo kado kaart is ferrûn op {{expiry}}.",
+      "expires_on": "Expires: {{expiry}}",
+      "redeem": "Brûk dizze koade by de kassa om jo jeftekaart yn te ruiljen:",
+      "remaining_amount": "{{amount}} oerbleaun",
+      "shop_link": "Begjin winkelje",
+      "print": "Ôfdrukke",
+      "add_to_apple_wallet": "Tafoegje oan Apple Wallet"
+    }
+  },
+  "blog": {
+    "general": {
+      "empty": "Dit blog hat gjin artikels",
+      "empty_button": "Gean nei Hjemmeside",
+      "categories": "Kategoryen",
+      "all_tag": "Alle"
+    },
+    "article": {
+      "tags": "Tags:",
+      "written_by": "{{author}}",
+      "share": "Share",
+      "previous_article": "Foarige artikel",
+      "next_article": "Folgjende artikel",
+      "comments_count": {
+        "zero": "{{count}} opmerkings",
+        "one": "{{count}} kommentaar jaan",
+        "other": "{{count}} opmerkings"
+      }
+    },
+    "comments": {
+      "leave_comment": "Lit in reaksje efter",
+      "name": "Namme",
+      "email": "E-post",
+      "content": "Content",
+      "approval_notice": "Alle opmerkingen wurde modereare foardat se wurde publisearre",
+      "submit": "Pleats kommentaar",
+      "success": "Jo kommentaar is publisearre.",
+      "success_moderated": "Jo opmerking is ferstjoerd. It sil sichtber wêze as de eigner fan 'e winkel it aksepteart!"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Dyn namme",
+      "email": "Dyn email",
+      "message": "Jo berjocht",
+      "submit": "Stjoer berjocht",
+      "successfully_sent": "Jo berjocht is mei sukses ferstjoerd."
+    }
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y",
+    "short_month_day_year": "%b %d, %Y",
+    "month_day_year_time": "% B% d,% Y by% H:% M% P"
+  },
+  "langshop": {
+    "ios_switcher": {
+      "done": "Klear",
+      "close": "Slute"
+    }
+  },
+  "shopify": {
+    "sentence": {
+      "words_connector": ", ",
+      "two_words_connector": " en ",
+      "last_word_connector": ", en "
+    },
+    "checkout": {
+      "general": {
+        "page_title": "Betelje",
+        "error_page_title": "Fersin",
+        "skip_to_content": "Gean nei ynhâld",
+        "breadcrumb": "Breadcrumb",
+        "continue_button_label": "Trochgean",
+        "complete_purchase_button_label": "Folsleine bestelling",
+        "pay_now_button_label": "Betelje no",
+        "authenticate_purchase_button_label": "Autentisearje betelling",
+        "edit_link_label": "Bewurkje",
+        "all_rights_reserved": "Alle rjochten foarbehâlden %{shop_name}",
+        "print_policies_link_label": "Ôfdrukke",
+        "cart": "Karre",
+        "close_modal_label": "Slute",
+        "close_notice_label": "Slute",
+        "expand_notice_label": "Sjoch mear",
+        "continue_to_shipping_method": "Trochgean nei ferstjoeren",
+        "continue_to_payment_method": "Trochgean nei betelling",
+        "continue_to_review": "Bestel beoardielje",
+        "back_to_cart": "Werom nei 'e karre",
+        "back_to_contact_information": "Werom nei ynformaasje",
+        "back_to_shipping_method": "Werom nei it ferstjoeren",
+        "back_to_payment_method": "Werom nei betelling",
+        "choose_shipping_method": "Kies in ferstjoermetoade",
+        "choose_payment_method": "Kies in betellingsmetoade",
+        "choose_billing_address": "Kies in faktureadres",
+        "contact_us_html": "Kontakt mei ús op foar mear ynformaasje",
+        "autocomplete_title": "Suggestjes",
+        "autocomplete_single_item": "1 artikel beskikber",
+        "autocomplete_multi_item": "{{number}} items beskikber",
+        "autocomplete_selection": "{{number}} fan {{total}}",
+        "autocomplete_close": "Slút suggestjes",
+        "forwarding_indicator": {
+          "new_window": "Opens in a new window.",
+          "external": "Iepenet eksterne webside.",
+          "external_and_new_window": "Iepenet eksterne webside yn in nij finster."
+        },
+        "checkout_context": {
+          "step_one": "%{shop_name} - Betelje"
+        },
+        "tooltip_accessibility_label": "Mear ynformaasje"
+      },
+      "contact": {
+        "title": "Ynformaasje",
+        "address_title": "Adres",
+        "shipping_address_title": "Ferstjoeradres",
+        "delivery_option_title": "Ofleveringsmetoade",
+        "contact_method_title": "Kontakt ynformaasje",
+        "email_label": "E-post",
+        "email_placeholder": "E-post",
+        "email_or_phone_label": "E-post of mobyl tillefoannûmer",
+        "email_or_phone_placeholder": "E-post of mobyl tillefoannûmer",
+        "stored_addresses_label": "Bewarre adressen",
+        "new_address_label": "Brûk in nij adres",
+        "first_name_label": "Foarnamme",
+        "optional_first_name_label": "Foarnamme (opsjoneel)",
+        "last_name_label": "Achternamme",
+        "company_label": "Bedriuw",
+        "optional_company_label": "Bedriuw (opsjoneel)",
+        "address1_label": "Adres",
+        "address2_label": "Appartemint, suite, ensfh.",
+        "optional_address2_label": "Appartement, suite, ensfh. (Opsjoneel)",
+        "city_label": "Stêd",
+        "country_label": "Lân / Regio",
+        "country_code": "Lân / Streekkoade",
+        "province_label": "Provinsje",
+        "province_placeholder": "Provinsje",
+        "county_label": "County",
+        "county_placeholder": "County",
+        "state_label": "Steat",
+        "state_placeholder": "Steat",
+        "region_label": "Regio",
+        "region_placeholder": "Regio",
+        "region_none": "Gjin selekteare",
+        "prefecture_label": "Prefektuer",
+        "prefecture_placeholder": "Prefektuer",
+        "governorate_label": "Gûverneurskip",
+        "governorate_placeholder": "Gûverneurskip",
+        "emirate_label": "Emiraat",
+        "emirate_placeholder": "Emiraat",
+        "state_and_territory_label": "Steat / territoarium",
+        "state_and_territory_placeholder": "Steat / territoarium",
+        "phone_label": "Telefoan",
+        "optional_phone_label": "Tillefoan opsjoneel)",
+        "phone_placeholder": "Telefoan",
+        "phone_tooltip": "Yn gefal moatte wy jo kontakt opnimme oer jo bestelling",
+        "zip_code_label": "ZIP koade",
+        "zip_code_placeholder": "ZIP koade",
+        "postal_code_label": "Postkoade",
+        "postal_code_placeholder": "Postkoade",
+        "postcode_label": "Postkoade",
+        "postcode_placeholder": "Postkoade",
+        "pincode_label": "Pinkoade",
+        "pincode_placeholder": "Pinkoade",
+        "civic_number_warning": "Foegje in hûsnûmer ta as jo ien hawwe"
+      },
+      "delivery_options": {
+        "free_total_label": "Frij",
+        "ship": "Skip",
+        "shipping_address": "Ferstjoeradres",
+        "pick_up": "Oppakke",
+        "pick_up_locations": "Lokaasjes foar pickup",
+        "pick_up_in_one_hour": "Normaal klear yn 1 oere",
+        "pick_up_in_two_hours": "Normaal klear yn 2 oeren",
+        "pick_up_in_four_hours": "Normaal klear yn 4 oeren",
+        "pick_up_in_twenty_four_hours": "Normaal klear yn 24 oeren",
+        "pick_up_in_two_to_four_days": "Normaal klear yn 2-4 dagen"
+      },
+      "shipping": {
+        "estimated_delivery_date": {
+          "other": "%{count} wurkdagen",
+          "one": "1 wurkdei"
+        },
+        "estimated_delivery_date_range": "%{minimum} nei %{maximum} wurkdagen",
+        "shipping_line_phone_label": "Mobyl tillefoannûmer (fereaske)",
+        "shipping_line_phone": "Jo koerier kin dit nûmer brûke om kontakt mei jo op te nimmen.",
+        "shipping_line_delivery_phone_label": "Mobile telefoannûmer",
+        "shipping_line_delivery_phone": "Wy meie dit nûmer brûke om jo te bellen of te SMSen oer jo levering.",
+        "optional_shipping_line_delivery_instructions_label": "Leveringsinstruksjes (opsjoneel)",
+        "shipping_line_delivery_instructions": "Fier needsaaklike ynformaasje yn lykas doarcodes of pakket-ynstruksjes.",
+        "other_method": {
+          "zero": "Gjin oare metoaden beskikber",
+          "one": "1 oare metoade te krijen by ",
+          "other": "%{count} oare metoades beskikber te begjinnen by "
+        },
+        "shipping_rate_discounted_amount": "Was: %{original_amount}. No: %{amount}",
+        "local_delivery": "Lokale levering",
+        "title": "Skipfeart",
+        "shipping_method_title": "Ferstjoermetoade",
+        "waiting_on_rate_notice": "Beskikbere ferstjoerkosten krije ...",
+        "waiting_on_pickup_location_notice": "Beskikbere opfanglokaasjes krije ...",
+        "no_rates_for_cart_or_destination_notice": "D'r binne gjin ferstjoermetoaden beskikber foar jo winkelkarre of adres",
+        "no_pickup_location_notice": "Op syn minst ien fan jo produkten is net beskikber foar ophelje",
+        "no_rates_for_country_notice": "Wy biede gjin ferstjoering oan %{country}.",
+        "no_rates_contact_notice": "Kontakt mei ús op foar mear ynformaasje",
+        "free_rate_label": "Frij",
+        "cheapest_rate_label": "Goedkeapste",
+        "please_enter_your_shipping_information_notice": "Fier jo ferstjoergegevens yn."
+      },
+      "payment": {
+        "amazon_payments_label": "Amazon Betelje",
+        "amazon_payments_login_hint": "Jo wurde frege om mei Amazon oan te loggen.",
+        "amazon_payments_logout": "Ofmelde fan Amazon Pay",
+        "amazon_payments_failed_mfa_challenge": "De selekteare betelmethode koe net brûkt wurde. Selektearje in oare metoade of nim kontakt op mei jo bank- of kaarthawwer.",
+        "amazon_payments_abandoned_mfa_challenge": "Jo betelling koe net foltôge wurde. Besykje in oare betellingsmetoade of nim kontakt op mei jo bank- of kaarthawwer.",
+        "amazon_payments_could_not_enqueue_authorize": "Der wie in probleem by it ferwurkjen fan jo betelling. Besykje it opnij of brûk in oare betellingsmetoade.",
+        "title": "Betelling",
+        "amount_left_to_pay_label": "Betelje foar:",
+        "discount_button_action_label": "Koarting foar koarting tapasse",
+        "gift_card_code_label": "Jeftekaartkoade",
+        "apply_gift_card_button_label": "Tapasse",
+        "gift_card_balance_label": "Lykwicht:",
+        "supported_card_brands_more_label": "en mear…",
+        "detected_card_brand": "Detekte kaartmerk: {merk}",
+        "card_number_label": "Kaartnûmer",
+        "card_number_placeholder": "Kaartnûmer",
+        "card_pay_with": "Betelje mei:",
+        "card_security_notice": "Alle transaksjes binne feilich en fersifere.",
+        "card_information_notice": "Alle transaksjes binne feilich en fersifere. Kredytkaartynformaasje wurdt nea opslein.",
+        "name_on_card_label": "Namme op Kaart",
+        "name_on_card_placeholder": "Namme op Kaart",
+        "card_expiry_label": "Eindei brûken (MM / YY)",
+        "card_expiry_placeholder": "Eindei brûken (MM / YY)",
+        "credit_card_start_month": "Begjin moanne",
+        "credit_card_start_year": "Begjinjier",
+        "card_verification_value_label": "Feilichheidskoade",
+        "card_verification_value_placeholder": "Feilichheidskoade",
+        "card_expiry_date_explanation": "Útfaldatum fan kaart yn formaat: moanne, moanne, jier, jier",
+        "card_expiration_month_label": "Expiration moanne",
+        "card_expiration_year_label": "Ferrinjier",
+        "card_verification_value_explanation": "3-sifers befeiligingskoade normaal fûn op 'e efterkant fan jo kaart. American Express kaarten hawwe in 4-sifers koade dy't oan 'e foarkant leit.",
+        "card_verification_value_explanation_amex": "4-sifers feiligenskoade oan 'e foarkant fan jo kaart",
+        "card_verification_value_explanation_other": "3-sifers feiligenskoade op 'e rêch fan jo kaart",
+        "card_start_label": "Utjeftedatum (MM / YY)",
+        "card_start_placeholder": "Utjeftedatum (MM / YY)",
+        "card_issue_number_label": "Utjeftenûmer",
+        "card_issue_number_placeholder": "Utjeftenûmer"
+      },
+      "order_summary": {
+        "customer_already_used_once_per_customer_discount_notice": "De %{code} koartingskoade is al brûkt",
+        "subtotal_label": "Subtotaal",
+        "shipping_label": "Skipfeart",
+        "pickup_label": "Oppakke",
+        "no_pickup_location": "Jo bestelling is net beskikber foar opheljen. Fier in ferstjoeringsadres yn.",
+        "tip_label": "Foai",
+        "calculating_shipping": "Berekkenje…",
+        "shipping_default_value": "Berekkene op folgjende stap",
+        "shipping_pending_value": "—",
+        "shipping_pending_message": "Noch net beskikber",
+        "shipping_policy_link": "Ferstjoerkosten",
+        "taxes_label": "Belestingen",
+        "estimated_taxes_label": "Belestingen (skatte)",
+        "total_label": "Totaal",
+        "total_outstanding_label": "Bedrach om te beteljen",
+        "partial_total_label": "Totaal",
+        "free_total_label": "Frij",
+        "paid_label": "Betelle",
+        "payment_due_label": "Betelje foar",
+        "vat_label_html": "Ynklusyf %{amount} yn belestingen",
+        "discount_and_gift_card_savings_notice": "Nei %{discount_amount} yn koartingen en %{gift_card_amount} yn kado's",
+        "discount_savings_notice": "Nei %{discount_amount} yn koartingen",
+        "gift_card_savings_notice": "Nei %{gift_card_amount} yn kado's",
+        "cost_table_title": "Kosten gearfetting",
+        "description_label": "Beskriuwing",
+        "price_label": "Priis",
+        "quantity_label": "Kwantiteit",
+        "product_change_label": "Feroarje",
+        "product_image_label": "Produktôfbylding",
+        "scroll_order_summary": "Rôlje foar mear items",
+        "expand_order_summary": "Show oarder gearfetting",
+        "collapse_order_summary": "Ferberging fan oarder ferbergje",
+        "total_updated_label": "Aktualisearre totale priis:",
+        "order_total_updated_label": "Totaal bywurke",
+        "total_already_paid_label": "Al betelle",
+        "unit_price": {
+          "accessible_separator": "mei",
+          "content_html": "%{price}%{accessible_separator}%{per_unit}"
+        }
+      },
+      "field_errors": {
+        "email_or_phone_invalid": "Fier in jildich e-postadres as in mobyl tillefoannûmer yn",
+        "address_first_name_blank": "Fier in foarnamme yn",
+        "address_last_name_blank": "Fier in achternamme yn",
+        "address_address1_blank": "Fier in adres yn",
+        "address_address2_blank": "Fier in appartemint, suite, ensfh.",
+        "address_city_blank": "Fier in stêd yn",
+        "address_country_blank": "Selektearje in lân / regio",
+        "address_country_not_supported": "Wy stjoere op it stuit net nei dit lân / regio. Fier in nij ferstjoeringsadres yn en besykje it opnij.",
+        "address_province_blank": "Selektearje in steat / provinsje",
+        "address_company_blank": "Fier in bedriuwsnamme yn",
+        "address_phone_blank": "Fier in jildich telefoannûmer yn",
+        "address_zip_blank": "Fier in postkoade / postkoade yn",
+        "address_zip_invalid_for_country": "Fier in jildige ZIP / postkoade yn foar %{country}",
+        "address_zip_invalid_for_country_and_province": "Fier in jildige ZIP / postkoade yn foar %{province}, %{country}",
+        "credit_card_name_blank": "Fier jo namme krekt yn lykas it is skreaun op jo kaart",
+        "credit_card_name_invalid": "Fier jo namme krekt yn lykas it is skreaun op jo kaart",
+        "credit_card_number_invalid": "Fier in jildich kaartsnûmer yn",
+        "credit_card_expiry_invalid": "Fier in jildige ferfaldatum fan kaart yn",
+        "credit_card_month_invalid": "Fier in jildige ôfrin fan 'e kaart yn",
+        "credit_card_year_invalid": "Fier in jildich jier ôf",
+        "credit_card_start_invalid": "Fier in jildige startdatum yn foar kaart",
+        "credit_card_start_month_invalid": "Fier in jildige start moanne yn",
+        "credit_card_start_year_invalid": "Fier in jildich begjinjier fan de kaart yn",
+        "credit_card_verification_value_blank": "Fier de CVV of de feiligenskoade yn op jo kaart",
+        "reduction_code_code_not_found": "Fier in jildige koartingskoade of kadokaart yn",
+        "reduction_code_discount_not_found": "Fier in jildige koartingskoade yn",
+        "reduction_code_gift_card_code_invalid": "Fier in jildige kadokaart yn",
+        "reduction_code_gift_card_unusable": "Jo kinne gjin kado-kaart brûke om in oare kado-kaart te keapjen",
+        "shipping_line_phone_blank": "Fier in telefoannûmer yn om dizze leveringsmetoade te brûken",
+        "shipping_line_phone_invalid": "Fier in jildich telefoannûmer yn om dizze leveringsmetoade te brûken",
+        "tips_invalid_tip_amount": "Fier in tip yn net mear dan %{amount}",
+        "gift_card_already_applied": "Dizze kado kaart is al tapast op jo bestelling",
+        "gift_card_disabled": "Dizze jeftekaart is net mear te krijen",
+        "gift_card_expired": "Dizze kadekaart is ferrûn",
+        "gift_card_depleted": "Dizze jeftekaart hat gjin fûnsen oer",
+        "gift_card_currency_mismatch": "Allinich kado's yn %{checkout_currency} kin brûkt wurde mei dizze folchoarder",
+        "payment_gateway_needs_paid_plan_error": "Dizze betellingsmetoade is op it stuit net beskikber yn 'e winkel",
+        "payment_gateway_not_in_test_mode": "is net ynsteld om bestellingen te testen. Dizze winkel kin gjin echte bestellingen as echte betellingen akseptearje.",
+        "payment_gateway_incompatible_with_multi_currency": "Om dizze checkout yn jo lokale faluta te foltôgjen, moatte jo mei creditcard betelje.",
+        "subscription_agreement_blank": "Befêstigje dat jo ynstimme om troch te gean",
+        "physical_gift_card_invalid_quantity": "Licheposten foar fysike kaartskaartsjes moatte in kwantiteit hawwe dy't oerienkomt mei it oantal kado's foar kado's.",
+        "physical_gift_card_duplicate_code": "Lichaamlike fysike kadekaartsje befettet duplikaatkoade.",
+        "physical_gift_card_invalid_code": "Fysike kadekaartskoade is ûnjildich."
+      },
+      "payment_errors": {
+        "generic_error": "Der wie in probleem by it ferwurkjen fan jo betelling. Besykje it opnij of brûk in oare betellingsmetoade.",
+        "rejected_transaction": "Jo betelling is wegere. Besykje it opnij of brûk in oare betellingsmetoade.",
+        "credit_card_processing": "Jo betelling kin om technyske redenen net ferwurke wurde. Besykje it oer in pear minuten opnij of brûk in oare betellingsmetoade.",
+        "order_total_changed": "Jo bestelling totaal is feroare. Ferfarskje jo karre en besykje it opnij.",
+        "payment_processing": "Jo betelling kin om technyske redenen net ferwurke wurde. Besykje it opnij of brûk in oare betellingsmetoade.",
+        "paypal_zero_amount": "Jo kinne PayPal net brûke foar %{amount} oarders. Befêstigje dat jo bestelling korrekt is en kontrolearje sûnder PayPal.",
+        "paypal_invalid_token": "PayPal wie net beskikber. Besykje it opnij of brûk in oare checkout-opsje."
+      },
+      "payment_gateway": {
+        "cash_on_delivery_label": "Cash on Delivery (COD)",
+        "money_order_label": "Post wiksel"
+      },
+      "thank_you": {
+        "title": "Tige tank foar dyn oankeap!",
+        "confirmation_email_sent_text": "In befêstigings-e-post is ferstjoerd nei %{email}",
+        "return_to_store_link_label": "Trochgean mei boadskipjen",
+        "print_link_label": "Print ûntfangst",
+        "payment_information_title": "Betellingsynformaasje",
+        "shipping_information_title": "Ferstjoersynformaasje",
+        "page_title": "Dankewol %{display_name}!",
+        "page_title_no_name": "Dankewol!",
+        "cancelled_page_title": "Bestelling annulearre",
+        "customer_information_title": "Klant Ynformaasje",
+        "contact_information_title": "Kontakt ynformaasje",
+        "billing_address_title": "Fakturaasjeadres",
+        "shipping_address_title": "Ferstjoeradres",
+        "shipping_address_map_title": "Google-kaart mei pinpunt fan ferstjoeringsadres: %{address}",
+        "payment_method_title": "Wize fan beteljen",
+        "shipping_method_title": "Ferstjoermetoade",
+        "tracking_number": "Folchnûmer:",
+        "company_tracking_number": "%{company} folchnûmer:",
+        "estimated_arrival": "Ynskatte levering datum: ",
+        "re-order": "Selde items opnij bestelle",
+        "confirmed": "Befêstige",
+        "gift_card_confirmation_by_text": "Jeftekaarten wurde per tekst ferstjoerd. As jo ​​jo net hawwe ûntfongen, besykje dizze dan nochris te stjoeren of kontakt mei ús opnimme.",
+        "gift_card_confirmation_by_email": "Jeftekaarten wurde per e-post ferstjoerd. As jo ​​jo net hawwe ûntfongen, besykje dizze dan nochris te stjoeren of kontakt mei ús opnimme.",
+        "gift_card_title": "Jeftekaarten",
+        "resend_gift_cards": "Jeftekaarten opnij ferstjoere",
+        "thank_you_title": "Jo bestelling wurdt befêstige",
+        "thank_you_confirmed_order_with_email": "Jo sille ynkoarten in befêstigings-e-post mei jo bestelnûmer krije.",
+        "thank_you_confirmed_order_with_phone": "Jo krije ynkoarten in befêstigingstekst mei jo bestelnûmer.",
+        "thank_you_confirmed_order_with_email_and_phone": "Jo sille ynkoarten in befêstigings-e-post en tekst krije mei jo bestelnûmer.",
+        "thank_you_confirmed_order_with_email_pick_up": "Jo sille in e-post ûntfange as jo bestelling klear is foar opheljen.",
+        "thank_you_confirmed_order_with_phone_pick_up": "Jo sille in e-post ûntfange as jo bestelling klear is foar opheljen.",
+        "thank_you_confirmed_order_with_email_and_phone_pick_up": "Jo sille in e-post ûntfange as jo bestelling klear is foar opheljen.",
+        "thank_you_confirmed_order_with_missing": "Nim kontakt mei ús op fia e-post of tillefoan om in bestellingbefêstiging te ûntfangen.",
+        "order_status_confirmed_order_with_email": "Jo krije in e-post as jo bestelling klear is.",
+        "order_status_confirmed_order_with_phone": "Jo sille in tekst krije as jo bestelling klear is.",
+        "order_status_confirmed_order_with_email_and_phone": "Jo krije in e-post en tekst as jo bestelling klear is.",
+        "order_status_confirmed_order_with_email_pick_up": "Jo sille in e-post ûntfange as jo bestelling klear is foar opheljen.",
+        "order_status_confirmed_order_with_phone_pick_up": "Jo sille in tekst krije as jo bestelling klear is foar opheljen.",
+        "order_status_confirmed_order_with_email_and_phone_pick_up": "Jo krije in e-post en tekst as jo bestelling ree is foar opheljen.",
+        "order_status_confirmed_order_local": "Wy meitsje jo bestelling klear foar levering.",
+        "order_status_updates_with_email": "Jo krije updates en levering fia e-post.",
+        "order_status_updates_with_phone": "Jo krije ferstjoerings- en leveringsupdates per tekst.",
+        "order_status_updates_with_email_and_phone": "Jo krije fernijings en levering updates fia e-post en tekst.",
+        "order_status_updates_with_missing": "Kies hoe't jo ferstjoeringsupdates wolle krije.",
+        "confirmed_title": "Jo bestelling wurdt befêstige",
+        "confirmed_description": "Wy hawwe jo bestelling aksepteare, en wy meitsje it klear. Kom werom nei dizze pagina foar updates oer jo ferstjoerstatus.",
+        "ready_for_pickup_title": "Jo bestelling is klear foar opheljen",
+        "ready_for_pickup_description": "Jo bestelling is klear foar opheljen. Brûk asjebleaft jo bestellingsbefêstiging as jo jo bestelling ophelje.",
+        "ready_for_delivery_title": "Jo bestelling is klear foar levering.",
+        "ready_for_delivery_description": "Wy hawwe jo bestelling taret.",
+        "order_updates_title": "Updates bestelle",
+        "shop_phone_description": "Jo krije in tekst mei in keppeling nei de winkel-app om jo bestelling te folgjen.",
+        "order_updates_description_html": "Updates sille stjoerd wurde nei %{customer_contact}",
+        "order_updates_current_step_prefix": "Aktuele stap: ",
+        "order_updates_past_step_prefix": "Foarige stap: ",
+        "order_updates_upcoming_step_prefix": "Kommende stap: ",
+        "in_transit": "Ûnderweis",
+        "in_transit_title": "Jo ferstjoering is ûnderweis",
+        "in_transit_description": "Kom werom nei dizze pagina foar updates oer jo ferstjoerstatus.",
+        "in_transit_description_days": "Jo moatte jo pakket yn 'e folgjende krije %{number} dagen.",
+        "in_transit_description_today": "Jo moatte jo pakket hjoed ûntfange.",
+        "in_transit_description_tomorrow": "Jo moatte jo pakket de oare deis ûntfange.",
+        "no_tracking_number": "D'r is gjin trackingnûmer foar dizze ferstjoering.",
+        "out_for_delivery": "Net leverber",
+        "out_for_delivery_title": "Jo ferstjoering is út foar levering",
+        "out_for_delivery_description_html": "Jo ferstjoering is op 'e frachtauto - ferwachtsje dat it hjoed oankomt. As jo ​​it noch yn 'e folgjende 2 dagen net hawwe ûntfongen, asjebleaft %{contact_us}.",
+        "out_for_delivery_local_title": "Jo bestelling is út foar levering",
+        "out_for_delivery_local_description_html": "Jo bestelling sil gau oankomme.",
+        "attempted_delivery": "Besocht levering",
+        "attempted_delivery_title": "In besykjen waard makke om jo ferstjoering te leverjen",
+        "attempted_delivery_description_html": "Der waard besocht jo ferstjoering te leverjen, mar it wie net slagge. Asjebleaft %{contact_us} in oare besykjen foar levering regelje.",
+        "attempted_delivery_local_title": "Miste levering",
+        "attempted_delivery_local_description_html": "Wy koene jo bestelling net leverje. Om in oare levering te plannen, %{contact_us}.",
+        "delivered": "Oflevere",
+        "delivered_title": "Jo ferstjoering is levere",
+        "delivered_description_html": "Jo ferstjoering is oerlevere oan it adres dat jo hawwe levere. As jo ​​it net hawwe ûntfongen, as jo oare problemen hawwe, asjebleaft %{contact_us}.",
+        "delivered_local_title": "Jo bestelling is oerlevere",
+        "delivered_local_description_html": "Hawwe jo bestelling net ûntfongen? %{let_us_know}.",
+        "picked_up_title": "Jo bestelling is ophelle",
+        "picked_up_description_html": "Jo bestelling waard ophelle om %{location_name} op %{date}.",
+        "contact_us": "Kontakt mei ús opnimme",
+        "contact_us_lowercase": "Kontakt mei ús opnimme",
+        "contact_us_html": "Help nedich hawwe? %{contact_us}",
+        "updated_time": "Bywurke %{time_ago} lyn",
+        "failure": "Net oanlevere",
+        "failed_title": "Jo ferstjoering koe net wurde levere",
+        "failed_contact_merchant": "Kontakt %{company} levering te regeljen.",
+        "failed_contact_merchant_no_company": "Nim kontakt mei ús op om levering te regeljen.",
+        "non_shippable_title": "Jo bestelling is folslein",
+        "let_us_know": "Lit ús witte",
+        "login_title": "Log yn om alle bestellingsdetails te besjen",
+        "login_description": "Jo kinne jo bestelnûmer fine yn 'e ûntfangst dy't jo fia e-post hawwe ûntfongen.",
+        "login_description_phone": "Jo kinne jo bestelnûmer fine yn 'e ûntfangst dy't jo hawwe ûntfongen fia tekstberjocht.",
+        "login_not_customer_html": "Net %{name}? Do kinst %{link}",
+        "login_reorder_link_text": {
+          "one": "keapje dit produkt ek",
+          "other": "keapje dizze produkten ek"
+        },
+        "customer_information_hidden_fields_message": "Log yn om alle klantynformaasje te besjen.",
+        "cancelled_title": "Jo bestelling is annulearre",
+        "cancelled_description": "Jo bestelling waard annulearre op %{date}. Nim kontakt mei ús op as jo fragen hawwe.",
+        "order_number_label": "Bestelnûmer",
+        "customer_validation_error": "Fier in jildich e-post- of bestelnûmer yn.",
+        "customer_validation_error_phone": "Fier in jildich tillefoan as bestelnummer yn.",
+        "login": "Ynlogge",
+        "unfulfilled_items_title": "Tarieden foar ferstjoeren",
+        "unfulfilled_items_description": "Wy tariede op it stuit dizze items foar ferstjoering.",
+        "marker": {
+          "current": "Aktuele ferstjoeringslokaasje",
+          "shipping": "Ferstjoeradres"
+        },
+        "pick_up_in_store_marker": {
+          "current": "Aktuele ferstjoeringslokaasje",
+          "shipping": "Pickup lokaasje"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Items yn dizze ferstjoering",
+          "unfulfilled_table_title": "Items tariede op ferstjoering",
+          "product_image_label": "Produktôfbylding",
+          "description_label": "Beskriuwing",
+          "quantity_label": "Kwantiteit"
+        },
+        "opt_in_message_html": "Jo ynformaasje is mei sukses opslein %{shopify_pay}",
+        "order_updates_description_missing": "Jo ûntfange gjin ferstjoeringsupdates.",
+        "order_updates_subscribe_to_email_notifications": "Krij ferstjoeringsupdates fia e-post",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Krij ferstjoeringsupdates fia e-post of tekst",
+        "order_updates_subscribe_to_phone_notifications": "Krij ferstjoeringsupdates per tekst",
+        "order_updates_submit_subscription": "Yntsjinje",
+        "track_shipment": "Track ferstjoeren",
+        "shopify_pay": {
+          "order_completed_html": "Bestelling foltôge mei %{shopify_pay}",
+          "learn_more_label": "Learje mear oer Shop Pay"
+        },
+        "other_options": "Oare opsjes",
+        "delivery_information_label": "Ynformaasje oer levering:",
+        "gift_card_sent_confirmation": "Jeftekaarten ferstjoerd",
+        "qr_code": {
+          "title": "Download de winkel-app",
+          "subtitle": "Scan de koade mei de kamera fan jo tillefoan.",
+          "send_link_to_phone": "Of stjoer in link nei jo tillefoan"
+        }
+      },
+      "review": {
+        "title": "Resinsje",
+        "review_title": "Bestel beoardielje",
+        "checkout_as_guest": "Kontrolearje as gast",
+        "blocks": {
+          "contact_method_title": "Kontakt",
+          "billing_address_title": "Fakturearje",
+          "shipping_address_title": "Stjoer nei",
+          "shipping_method_title": "Metoade",
+          "payment_method_title": "Betelling",
+          "change_link_label": "Feroarje",
+          "change_contact_method_link_label": "Feroarje kontaktynformaasje",
+          "change_billing_address_link_label": "Feroarje adres adres",
+          "change_shipping_address_link_label": "Feroaringsadres feroarje",
+          "change_shipping_method_link_label": "Feroarje metoade",
+          "change_payment_method_link_label": "Feroarje betellingsmetoade",
+          "pick_up_in_store_shipping_method_html": "Pick up in winkel · %{location_name}"
+        }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Hâld my op 'e hichte oer nijs en eksklusive oanbiedingen",
+        "unsubscribe": {
+          "title": "Jo hawwe jo útskreaun",
+          "description": "Jo sille gjin karre-herinneringen mear fan ús krije."
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Weropjefte belied",
+        "privacy_policy": "Privacybelied",
+        "terms_of_service": "Betingsten fan tsjinst",
+        "legal_notice": "Juridyske notice",
+        "shipping_policy": "Ferstjoeringsbelied",
+        "terms_of_sale": "Betingsten fan ferkeap",
+        "subscription_policy": "Abonnemintebelied"
+      },
+      "remember_me": {
+        "shopify_pay_label": "Winkel betelje",
+        "save": "Rêde",
+        "title": "Tink oan my",
+        "label": "Bewarje myn ynformaasje foar in flugger kassa",
+        "description_html": "Folgjende kear as jo hjir of op oare winkels kontrolearje, oandreaun troch Shopify, krije jo in koade per tekstberjocht om feilich te keapjen mei Shop Pay.",
+        "mobile_phone_icon_alt": "Mobile telefoan",
+        "mobile_phone_number": "Mobile telefoannûmer",
+        "terms_and_privacy_html": "Troch troch te gean, stimme jo akkoart mei Shop Pay's %{privacy_href} en %{terms_href}.",
+        "privacy_policy": "Privacybelied",
+        "terms_of_service": "Tsjinsten foar tsjinsten",
+        "errors": {
+          "optin": "Shop Pay is net beskikber"
+        }
+      },
+      "notifications": {
+        "title": "Notifikaasjes"
+      },
+      "order_payment_collection": {
+        "custom_line_item_description": "Bedrach foar bestelling te beteljen %{order_name}",
+        "changes_summary": {
+          "added": {
+            "one": "Tafoege",
+            "other": "%{count} tafoege"
+          },
+          "removed": "Fuorthelle",
+          "subtracted": "%{count} fuorthelle"
+        },
+        "additional_payment_requested": "Oanfoljende betelling fan %{total_outstanding} nedich",
+        "checkout_review_and_pay": "Dyn bestelling %{order_name} waard bywurke, en hat in ekstra betelling nedich. Besjoch dizze wizigingen, en betelje dan om jo bestelling te befêstigjen.",
+        "order_updated_on": "Jo bestelling waard bywurke op %{last_edited_at}.",
+        "order_review_and_pay": "Jo bestelling is bywurke en hat in ekstra betelling nedich. Besjoch en betelje om jo bestelling te befêstigjen.",
+        "pay_now": "Betelje no"
+      },
+      "change_currency": {
+        "currency_button_label": "%{currency} (%{currency_symbol})",
+        "credit_card_will_be_charged_html": "Jo kredytkaart wurdt yn rekken brocht %{amount}",
+        "payment_total_label": "Betelling totaal",
+        "conversion_rate": "1 %{from_currency_code} = %{rate} %{to_currency_code}",
+        "change_currency_link": "Feroarje nei %{currency_name}",
+        "card_provider_fx_charges_warning": "Jo kaartprovider kin mooglik fergoedingen rekkenje %{currency_code} transaksjes."
+      },
+      "tips": {
+        "title": "Tip tafoegje",
+        "description": "Lit jo stipe foar it team sjen at %{shop_name}",
+        "presets_description": "Selektearje in tippersintaazje",
+        "custom_label": "Oanpaste tip",
+        "add_tip": "Tip tafoegje",
+        "update_tip": "Tip bywurkje",
+        "message": "Tige tank, wy wurdearje it",
+        "preset_label": "%{tip_percent}%",
+        "no_tip_label": "Gjin"
+      }
+    },
+    "pagination": {
+      "previous": "Foarige",
+      "next": "Folgjende"
+    },
+    "links": {
+      "powered_by_shopify": "Oandreaun troch Shopify",
+      "learn_more": "Lear mear"
+    },
+    "feed": {
+      "more": "Mear"
+    },
+    "attributes": {
+      "email": "e-post"
+    },
+    "notices": {
+      "cart": {
+        "all_items_in_cart": "Alle %{count} %{name} binne yn jo karre.",
+        "empty_update": "kin gjin lege karre bywurkje",
+        "missing_parameters": "gjin jildige id- as rigelparameter",
+        "generic_error": "Karfelflater",
+        "too_many_line_items_error": "Jo karre kin net mear as %{max} items.",
+        "link_expired": "Link is ferrûn",
+        "link_no_longer_exists": "Keppeling bestiet net mear.",
+        "stock_problems_html": "Ien of mear items binne net mear te krijen. Wy hawwe in levere <a href='%{link}'>bywurke cart</a>.",
+        "changed": "Karre feroare",
+        "items_changed": "Ien of mear items binne feroare.",
+        "product_sold_out": "It produkt '%{name}'is al útferkocht.",
+        "variant_not_found": "Fariant kin net fine",
+        "variant_requires_selling_plan": "Fariant kin allinich kocht wurde mei in ferkeapplan.",
+        "selling_plan_not_applicable": "Kin ferkeapplan net tapasse op fariant",
+        "shipping_address_not_required": "Dizze kar is gjin ferstjoering nedich",
+        "shipping_address_invalid": "Der wie in probleem by it berekkenjen fan jo ferstjoerkoarten Trochgean nei it kassa om in ferstjoerkoers te kiezen foardat jo jo bestelling foltôgje."
+      },
+      "storefront": {
+        "invalid_password": "Wachtwurd ferkeard, besykje it opnij."
+      }
+    },
+    "email_marketing": {
+      "subscribed": {
+        "confirmation": "Betanke foar ynskriuwe foar ús mailinglist.",
+        "disclaimer": "Jo kinne op elts momint útskriuwe.",
+        "unsubscribe": "Abonnearje"
+      },
+      "unsubscribed": {
+        "confirmation": "Jo hawwe jo ôfskreaun fan ús mailinglist.",
+        "disclaimer": "Jo sille gjin marketingupdates mear fan ús krije. Jo kinne op elk momint opnij ynskriuwe.",
+        "preview": "Jo sjogge in foarbyld fan wat klanten sille sjen as se har ôfskriuwe."
+      }
+    },
+    "page_titles": {
+      "products": "Produkten",
+      "shopping_cart": "Jo winkelkarre",
+      "account": "Rekken",
+      "create_account": "Meitsje akkount",
+      "reset_account": "Reset akkount",
+      "addresses": "Adressen",
+      "order": "Oarder %{name}",
+      "search": "Sykje",
+      "collections": "Samlingen",
+      "not_found": "404 net fûn",
+      "challenge": "Útdaging",
+      "checkpoint": "Kontrolpunt"
+    },
+    "cart": {
+      "discounts_with_count": "%{count} koartingen binne tapast"
+    },
+    "challenge": {
+      "message": "Om troch te gean, lit ús witte dat jo gjin robot binne.",
+      "error": "Jo antwurd wie net korrekt, besykje it opnij.",
+      "submit_button_text": "Yntsjinje"
+    },
+    "checkpoint": {
+      "message": "Captcha oplosse om troch te gean",
+      "error": "Captcha-falidaasje is mislearre",
+      "submit_button_text": "Yntsjinje"
+    }
+  }
+}

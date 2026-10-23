@@ -1,0 +1,66 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_section": {
+      "type": "rich-text",
+      "settings": {
+        "text_width": "narrow",
+        "title": "ACCELERATE YOUR CUSTOM JEWELRY CREATION",
+        "content": "<p>Take the lead in crafting your unique jewelry masterpiece by sharing essential details through the form below. Your input will be the catalyst, propelling us to swiftly embark on your personalized Custom Jewelry Project. Let's turn your vision into reality faster than ever before.</p><p>Feel free to customize it further based on your specific preferences or branding style.</p>",
+        "button_text": "",
+        "button_link": "/collections/all"
+      }
+    },
+    "custom_form_rCMyAY": {
+      "type": "custom-form",
+      "blocks": {
+        "dropdown_tVxzkf": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Choose Jewlery Type",
+            "values": "Chains, Rings, Pendants, Bracelets, Earrings, Neclkaces"
+          }
+        },
+        "text_GkjfUX": {
+          "type": "text",
+          "settings": {
+            "title": "Your Budget",
+            "use_long_text": false,
+            "is_required": true
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_tVxzkf",
+        "text_GkjfUX"
+      ],
+      "settings": {
+        "form_heading": "Leave your message",
+        "show_store_info": false,
+        "store_heading": "Find us",
+        "store_info": ""
+      }
+    },
+    "custom_html_MgAcgw": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "title": "Your title",
+        "html": "<div id=\"jeweler-studio-widget\" data-tenant-id=\"35b801c3-e1e0-40b4-9458-d728dc680394\" data-api-url=\"https://jeweler-studio-backend-prod.onrender.com\" data-display=\"fullscreen\" style=\"position:fixed;inset:0;width:100vw;height:100dvh;z-index:2147483647;background:#fff;overflow-y:auto;box-shadow:0 0 0 100vmax #fff;\">\n  <div style=\"display:flex;align-items:center;justify-content:center;height:100%;font-family:sans-serif;color:#666;\">\n    Loading Design Studio...\n  </div>\n</div>\n<script src=\"https://embed.jewelerstudio.ai/embed.js\" async></script>"
+      }
+    }
+  },
+  "order": [
+    "rich_text_section",
+    "custom_form_rCMyAY",
+    "custom_html_MgAcgw"
+  ]
+}
