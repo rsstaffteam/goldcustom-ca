@@ -1,0 +1,6 @@
+{
+  // Shopify locale files start with an auto-generated /* ... */ header, which Shopify accepts.
+  "files.associations": {
+    "**/locales/*.json": "jsonc"
+  }
+}

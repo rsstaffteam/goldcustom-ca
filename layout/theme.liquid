@@ -126,19 +126,11 @@
     <script src="{{ 'theme.min.js' | asset_url }}" defer></script>
     <script src="{{ 'custom.js' | asset_url }}" defer></script>
 
-    <script>
-      (function () {
-        window.onpageshow = function() {
-          // We force re-freshing the cart content onpageshow, as most browsers will serve a cache copy when hitting the
-          // back button, which cause staled data
-          document.documentElement.dispatchEvent(new CustomEvent('cart:refresh', {
-            bubbles: true,
-            detail: {scrollToTop: false}
-          }));
-        };
-      })();
-    </script>
-  
+    {%- comment -%}
+      Removed Warehouse's onpageshow cart:refresh: it was a SyntaxError here and never ran on the live store. Running it re-renders
+      the cart section on every load (wipes the Partial.ly / Sezzle buttons on /cart) and throws with cart_type "page" (no mini-cart).
+    {%- endcomment -%}
+
 <script>
 window.mlvedaShopCurrency = "{{ shop.currency }}";
 window.shopCurrency = "{{ shop.currency }}";
